@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center" width="100%">
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pupcat&size=51&duration=8000&color=CFCFCF&background=000000&center=true&vCenter=true&width=800&height=200&lines=Hi%2C+I'm+Jack+%3A)">
+</p>
 
-<!--
-**Kelo/Kelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" width="100%">
+I'm a Software Engineer who likes open source and collaboration.
+</p>
+<p align="center" width="100%">
+I'm interested & learning about DevOps.
+</p>
+<p align="center" width="100%">
+I'm currently working on projects using GoLang & Python.
+</p>
