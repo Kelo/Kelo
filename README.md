@@ -5,6 +5,4 @@
 <p align="center" width="100%">
 I'm a Software Engineer who likes open source and collaboration.
 </p>
-<p align="center" width="100%">
-I'm interested & learning about DevOps/DX.
-</p>
+
